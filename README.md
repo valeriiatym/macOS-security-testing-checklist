@@ -26,6 +26,7 @@
   - Bluetooth
   - Automation
   - Analytics & Improvements
+- iCloud
 - System Integrity Protection
 - Gatekeeper and XProtect
 - Users & Groups 
