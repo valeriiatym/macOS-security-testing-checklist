@@ -3,7 +3,7 @@
 
 
 # Table of Contents
-- [General Security Settings]
-- [FileVault]
-- [Firewall]
-- [Privacy Settings]
+- General Security Settings
+- FileVault
+- Firewall
+- Privacy Settings
