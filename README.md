@@ -2,4 +2,8 @@
 
 
 
-# Table of Content
+# Table of Contents
+- [General Security Settings]
+- [FileVault]
+- [Firewall]
+- [Privacy Settings]
