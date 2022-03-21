@@ -45,7 +45,7 @@
 FileVault adds an extra layer of security, beyond your admin user account password, by encrypting the entire macOS volume. This means no one can access the data on your hard drive without the decryption password.
 
 - [ ] Verify whether FileVault enabled 
-- [ ] Test FileVault for multiple user accounts
+- [ ] Check FileVault for multiple user accounts
 
 # Firewall
 
